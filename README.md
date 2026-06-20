@@ -42,3 +42,4 @@ The system uses a **bitmask-based** permissions model. Users can be assigned mul
 | Add Client | 2 |
 | Update Client | 4 |
 | Full Access | -1 |
+| Blocked Access | 0 |

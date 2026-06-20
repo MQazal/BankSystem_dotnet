@@ -14,25 +14,10 @@ N-Tier Architecture
 
 3- Architecture:
 The solution follows a strict 3-Tier Architecture:
-┌─────────────────────────────────────────────┐
-│         Presentation Layer (UI)             │
-│  Windows Forms / Console — user interaction │
-└──────────────────┬──────────────────────────┘
-                   │
-┌──────────────────▼──────────────────────────┐
-│        Business Logic Layer (BLL)           │
-│  Validation, rules, calculations            │
-└──────────────────┬──────────────────────────┘
-                   │
-┌──────────────────▼──────────────────────────┐
-│         Data Access Layer (DAL)             │
-│  ADO.NET / SqlClient — raw SQL queries      │
-└──────────────────┬──────────────────────────┘
-                   │
-┌──────────────────▼──────────────────────────┐
-│          SQL Server Database                │
-│  BankManagementSystem — 7 normalized tables │
-└─────────────────────────────────────────────┘
+<li>Presentation Layer (UI): Windows Forms / Console — user interaction.</li>
+<li>Business Logic Layer (BLL): Validation, rules, calculations.</li>
+<li>Data Access Layer (DAL): ADO.NET / SqlClient — raw SQL queries.</li>
+<li>SQL Server Database: BankManagementSystem — 7 normalized tables.</li>
 
 4- Features:
 <li>Client Management — create, view, and delete bank clients; each client is linked to a Person record for contact information.</li>
@@ -46,10 +31,8 @@ The solution follows a strict 3-Tier Architecture:
 <li>🔑 Permissions System:
 The system uses a bitmask-based permissions model.
 Example permissions:
-Permission	 Value
-View Clients	1
-Add Client	  2
-Update Client	4
-Delete Client	8
-Full Access	 -1
+<li>View Clients:	1</li>
+<li>Add Client:	2</li>
+<li>Update Client: 4</li>
+<li>Full Access: -1</li>
 Users can be assigned multiple permissions efficiently using bitwise operations.</li>

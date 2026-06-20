@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../../Bank Management System Console Project/BankManagementSystem-BusinessLogicLayer/BankManagementSystem-BusinessLogicLayer.csproj" Id="6d5cb699-ea4a-40fb-a090-2468076c9d01" />
+  <Project Path="../../Bank Management System Console Project/BankManagementSystem-DataAccessLayer/BankManagementSystem-DataAccessLayer.csproj" Id="4ec06348-93d6-4c7c-95cc-c4a6df67130a" />
+  <Project Path="BankManagementSystem-PresentationLayer.csproj" Id="ef311b25-56b5-48e8-9fbc-fbda94ae59fa" />
+</Solution>

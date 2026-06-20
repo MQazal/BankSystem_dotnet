@@ -1,0 +1,12 @@
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-DataAccessLayer\bin\Debug\BankManagementSystem-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-DataAccessLayer\bin\Debug\BankManagementSystem-DataAccessLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-DataAccessLayer\obj\Debug\BankManagementSystem-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-DataAccessLayer\obj\Debug\BankManagementSystem-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-DataAccessLayer\obj\Debug\BankManagementSystem-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-DataAccessLayer\obj\Debug\BankManagementSystem-DataAccessLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-DataAccessLayer\bin\Debug\BankManagementSystem-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-DataAccessLayer\bin\Debug\BankManagementSystem-DataAccessLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-DataAccessLayer\obj\Debug\BankManagementSystem-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-DataAccessLayer\obj\Debug\BankManagementSystem-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-DataAccessLayer\obj\Debug\BankManagementSystem-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-DataAccessLayer\obj\Debug\BankManagementSystem-DataAccessLayer.pdb

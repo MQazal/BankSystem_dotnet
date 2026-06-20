@@ -1,0 +1,18 @@
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\bin\Debug\BankManagementSystem-BusinessLogicLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\bin\Debug\BankManagementSystem-BusinessLogicLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankManagementSystem-BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankManagementSystem-BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankManagementSystem-BusinessLogicLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankManagementSystem-BusinessLogicLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\bin\Debug\BankManagementSystem-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\bin\Debug\BankManagementSystem-DataAccessLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankMana.6BCA0FD5.Up2Date
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\bin\Debug\BankManagementSystem-BusinessLogicLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\bin\Debug\BankManagementSystem-BusinessLogicLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\bin\Debug\BankManagementSystem-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\bin\Debug\BankManagementSystem-DataAccessLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankManagementSystem-BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankManagementSystem-BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankMana.6BCA0FD5.Up2Date
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankManagementSystem-BusinessLogicLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Bank Management System Console Project\BankManagementSystem-BusinessLogicLayer\obj\Debug\BankManagementSystem-BusinessLogicLayer.pdb

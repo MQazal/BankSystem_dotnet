@@ -10,7 +10,8 @@ BankSystem_dotnet is a C#-based bank management application that provides teller
 - Windows Forms
 - SQL Server
 - ADO.NET
-- OOP · N-Tier Architecture
+- OOP
+- N-Tier Architecture
 
 ## Architecture
 
